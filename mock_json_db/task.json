@@ -1,0 +1,31 @@
+{
+    "tasks": [
+        {
+            "id": "1",
+            "name": "Design database",
+            "completed": true,
+            "date": ""
+        },
+        {
+            "id": "2",
+            "name": "Archicture running",
+            "completed": false,
+            "date": ""
+        }
+    ],
+    "comments": [
+        {
+            "id": "1",
+            "text": "a comment about post 1",
+            "postId": "1"
+        },
+        {
+            "id": "2",
+            "text": "another comment about post 1",
+            "postId": "1"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
